@@ -1,0 +1,12 @@
+QSflow
+Copyright (C) 2026 K&C and QSflow contributors
+
+QSflow is licensed under GNU AGPL-3.0-or-later. See LICENSE.
+
+QSflow integrates with or optionally uses third-party projects, including
+PySide6, Pillow, Ultralytics, OpenAI's Python SDK, PyYAML and LiteRT. Those
+projects remain subject to their own licenses. Model files and datasets are
+not part of the QSflow source distribution unless explicitly stated.
+
+K&C and QSflow are project branding. Third-party product and service names are
+the property of their respective owners.

@@ -1,0 +1,47 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+build/
+dist/
+
+# Local application and project state
+config/user_settings.ini
+.avls/
+**/.avls/
+runs/
+*.log
+*.cache
+
+# Secrets and local editor settings
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Model binaries are downloaded or selected by users at runtime
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.engine
+*.torchscript
+*.mlpackage/
+*.pb
+
+# Local datasets and exported archives
+datasets/
+*.zip
+*.7z
+
+# Design source/reference captures are not needed to run the application
+assets/*_source.png
+assets/*_original.png
+assets/kc_logo_reference.png
