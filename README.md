@@ -6,9 +6,8 @@
 [![License: AGPL v3+](https://img.shields.io/badge/License-AGPL_v3%2B-blue.svg)](LICENSE)
 [![Python 3.10–3.12](https://img.shields.io/badge/Python-3.10%E2%80%933.12-3776AB.svg)](https://www.python.org/)
 
-> Local-first AI-assisted object detection annotation desktop app. Supports
-> Pascal VOC, YOLO Detection and COCO Detection with one unified annotation
-> model, local inference, quick training and quality-control workflows.
+> 本地优先的 AI 辅助目标检测标注桌面应用，支持 Pascal VOC、YOLO Detection 和 COCO Detection，
+> 提供统一标注模型、本地推理、快速训练及标注质检流程。
 
 QSflow 是本地 AI 辅助目标检测标注上位机。创建项目时可选择 Pascal VOC、YOLO Detection 或 COCO Detection；应用内部使用统一标注对象，人工标注、AI 推理、训练和质检操作一致。
 
